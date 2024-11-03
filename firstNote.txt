@@ -1,0 +1,27 @@
+Qns 1 : A body revolves around a circular path of radius in time . What are the speed
+and velocity of the body?
+
+
+ans :  speed , v = d/t ; where d = 2 * pi * r [where d is the distance traveled in one complete revolution]
+                = 2 *pi * r / t
+
+
+        velocity, has 1)Magnitude| 2 *pi * r / t | 
+                      2)direction(Tangential )
+
+qns 2 : A physical quantity is inversely proportional to the 5th power of length, directly
+proportional to the square of mass and directly proportional to temperature. What
+are the dimensions of this quantity?
+
+[Q]= M ^2  * L ^−5 * T
+
+
+qns 3 : A U-tube of cross-sectional area is filled with a liquid of density . After a
+cylinder is placed on one side of the tube, the situation becomes like that shown
+in the figure. What is the weight of the cylinder? 
+
+W=ρgh=ρgAΔh
+
+
+qns:4 The person in the figure is  10m rom the center. Speed of sound is 350 m/s.Calculate the time between echoes. 
+v = 2*d/t = 2* 10 / 350 = 0.0571s
