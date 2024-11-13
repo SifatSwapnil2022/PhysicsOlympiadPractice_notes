@@ -1,1 +1,10 @@
+There is a layer of oil(750 kgm-3 density) below a layer of water of 20 cm(1000 kgm-3 density)
+in a glass. What will be the velocity of an oil droplet when it reaches the top of the glass?g=10
+ms-2
+
+ans :  F = (Pw - Po ) VG ;
+       a = F/m = F/V Po
+       V^2 = U^2 + 2.a.S
+
+
 
