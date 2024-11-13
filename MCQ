@@ -1,0 +1,595 @@
+Chapter 1: Mechanics
+The acceleration due to gravity on the surface of a planet depends on:
+
+a) Mass of the planet
+b) Radius of the planet
+c) Both mass and radius of the planet
+d) None of the above
+Answer: c) Both mass and radius of the planet
+
+If a body is moving in a circular path with constant speed, the force responsible for its circular motion is:
+
+a) Gravitational force
+b) Centripetal force
+c) Tension
+d) Friction
+Answer: b) Centripetal force
+
+The work done by a variable force F(x) acting on a body moving along the x-axis from x = a to x = b is given by:
+
+a) 
+𝑊
+=
+𝐹
+(
+𝑥
+)
+×
+(
+𝑏
+−
+𝑎
+)
+W=F(x)×(b−a)
+b) 
+𝑊
+=
+∫
+𝑎
+𝑏
+𝐹
+(
+𝑥
+)
+ 
+𝑑
+𝑥
+W=∫ 
+a
+b
+​
+ F(x)dx
+c) 
+𝑊
+=
+𝐹
+×
+𝑣
+W=F×v
+d) 
+𝑊
+=
+1
+2
+𝑚
+𝑣
+2
+W= 
+2
+1
+​
+ mv 
+2
+ 
+Answer: b) 
+𝑊
+=
+∫
+𝑎
+𝑏
+𝐹
+(
+𝑥
+)
+ 
+𝑑
+𝑥
+W=∫ 
+a
+b
+​
+ F(x)dx
+
+A car accelerates from rest with a constant acceleration. The distance traveled by the car in time 
+𝑡
+t is given by:
+
+a) 
+1
+2
+𝑎
+𝑡
+2
+2
+1
+​
+ at 
+2
+ 
+b) 
+𝑎
+𝑡
+2
+at 
+2
+ 
+c) 
+1
+2
+𝑎
+𝑡
+2
+1
+​
+ at
+d) 
+1
+2
+𝑣
+0
+𝑡
+2
+2
+1
+​
+ v 
+0
+​
+ t 
+2
+ 
+Answer: a) 
+1
+2
+𝑎
+𝑡
+2
+2
+1
+​
+ at 
+2
+ 
+
+Chapter 2: Work, Energy, and Power
+The potential energy of an object at height 
+ℎ
+h is given by:
+
+a) 
+𝑚
+𝑔
+ℎ
+mgh
+b) 
+1
+2
+𝑚
+𝑣
+2
+2
+1
+​
+ mv 
+2
+ 
+c) 
+1
+2
+𝑘
+𝑥
+2
+2
+1
+​
+ kx 
+2
+ 
+d) 
+𝑚
+𝑔
+mg
+Answer: a) 
+𝑚
+𝑔
+ℎ
+mgh
+
+The principle of conservation of mechanical energy states that:
+
+a) Total mechanical energy remains constant in the absence of external forces
+b) The kinetic energy remains constant
+c) The potential energy remains constant
+d) Total energy remains constant in any process
+Answer: a) Total mechanical energy remains constant in the absence of external forces
+
+A body of mass 5 kg is moving with a velocity of 10 m/s. The kinetic energy of the body is:
+
+a) 250 J
+b) 500 J
+c) 50 J
+d) 100 J
+Answer: b) 500 J
+
+Chapter 3: Rotational Motion
+The moment of inertia of a solid sphere of radius 
+𝑅
+R and mass 
+𝑀
+M about an axis passing through its center is:
+
+a) 
+2
+5
+𝑀
+𝑅
+2
+5
+2
+​
+ MR 
+2
+ 
+b) 
+1
+2
+𝑀
+𝑅
+2
+2
+1
+​
+ MR 
+2
+ 
+c) 
+1
+4
+𝑀
+𝑅
+2
+4
+1
+​
+ MR 
+2
+ 
+d) 
+𝑀
+𝑅
+2
+MR 
+2
+ 
+Answer: a) 
+2
+5
+𝑀
+𝑅
+2
+5
+2
+​
+ MR 
+2
+ 
+
+For an object rotating with angular velocity 
+𝜔
+ω, the rotational kinetic energy is given by:
+
+a) 
+1
+2
+𝐼
+𝜔
+2
+2
+1
+​
+ Iω 
+2
+ 
+b) 
+1
+2
+𝑚
+𝑣
+2
+2
+1
+​
+ mv 
+2
+ 
+c) 
+𝐼
+𝜔
+Iω
+d) 
+1
+2
+𝑚
+𝜔
+2
+2
+1
+​
+ mω 
+2
+ 
+Answer: a) 
+1
+2
+𝐼
+𝜔
+2
+2
+1
+​
+ Iω 
+2
+ 
+
+Chapter 4: Gravitation
+The escape velocity from the surface of the Earth is:
+
+a) 
+2
+𝐺
+𝑀
+𝑅
+R
+2GM
+​
+ 
+​
+ 
+b) 
+𝐺
+𝑀
+𝑅
+R
+GM
+​
+ 
+​
+ 
+c) 
+2
+𝐺
+𝑀
+𝑅
+R
+2GM
+​
+ 
+d) 
+𝐺
+𝑀
+𝑅
+2
+R 
+2
+ 
+GM
+​
+ 
+​
+ 
+Answer: a) 
+2
+𝐺
+𝑀
+𝑅
+R
+2GM
+​
+ 
+​
+ 
+
+The force between two point masses is inversely proportional to:
+
+a) Square of the distance between them
+b) Cube of the distance between them
+c) Distance between them
+d) None of the above
+Answer: a) Square of the distance between them
+
+Chapter 5: Simple Harmonic Motion
+The time period of a simple pendulum is independent of:
+
+a) Mass of the bob
+b) Length of the string
+c) Acceleration due to gravity
+d) None of the above
+Answer: a) Mass of the bob
+
+The frequency of a simple harmonic oscillator is:
+
+a) 
+1
+2
+𝜋
+𝑘
+𝑚
+2π
+1
+​
+  
+m
+k
+​
+ 
+​
+ 
+b) 
+1
+2
+𝜋
+𝑚
+𝑘
+2π
+1
+​
+  
+k
+m
+​
+ 
+​
+ 
+c) 
+2
+𝜋
+𝑘
+𝑚
+2π 
+m
+k
+​
+ 
+​
+ 
+d) 
+2
+𝜋
+𝑚
+𝑘
+2π 
+k
+m
+​
+ 
+​
+ 
+Answer: a) 
+1
+2
+𝜋
+𝑘
+𝑚
+2π
+1
+​
+  
+m
+k
+​
+ 
+​
+ 
+
+Chapter 6: Waves
+The speed of a transverse wave on a string is given by:
+
+a) 
+𝑣
+=
+𝑇
+𝜇
+v= 
+μ
+T
+​
+ 
+​
+ 
+b) 
+𝑣
+=
+𝑇
+𝜇
+v= 
+μ
+T
+​
+ 
+c) 
+𝑣
+=
+𝜇
+𝑇
+v=μT
+d) 
+𝑣
+=
+1
+𝜇
+v= 
+μ
+1
+​
+ 
+Answer: a) 
+𝑣
+=
+𝑇
+𝜇
+v= 
+μ
+T
+​
+ 
+​
+ 
+
+The frequency of a sound wave is inversely proportional to:
+
+a) Wavelength
+b) Speed of sound
+c) Temperature
+d) Density of air
+Answer: a) Wavelength
+
+Chapter 7: Optics
+The focal length of a concave lens is:
+
+a) Positive
+b) Negative
+c) Zero
+d) Infinite
+Answer: b) Negative
+
+The image formed by a convex lens when the object is at a distance greater than twice the focal length is:
+
+a) Real and inverted
+b) Virtual and erect
+c) Real and erect
+d) Virtual and inverted
+Answer: a) Real and inverted
+
+Chapter 8: Modern Physics
+The photoelectric effect can be explained by:
+
+a) Classical wave theory of light
+b) Quantum theory of light
+c) Newtonian mechanics
+d) None of the above
+Answer: b) Quantum theory of light
+
+The energy of a photon is directly proportional to its:
+
+a) Wavelength
+b) Frequency
+c) Speed
+d) Momentum
+Answer: b) Frequency
+
+Chapter 9: Thermodynamics
+The first law of thermodynamics is essentially a statement of:
+
+a) Conservation of mass
+b) Conservation of energy
+c) Conservation of momentum
+d) Energy transformation
+Answer: b) Conservation of energy
+
+The efficiency of a Carnot engine depends on:
+
+a) The temperature of the cold reservoir
+b) The temperature of the hot reservoir
+c) Both hot and cold reservoirs
+d) None of the above
+Answer: c) Both hot and cold reservoirs
