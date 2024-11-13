@@ -1,10 +1,30 @@
-There is a layer of oil(750 kgm-3 density) below a layer of water of 20 cm(1000 kgm-3 density)
+***  There is a layer of oil(750 kgm-3 density) below a layer of water of 20 cm(1000 kgm-3 density)
 in a glass. What will be the velocity of an oil droplet when it reaches the top of the glass?g=10
 ms-2
 
 ans :  F = (Pw - Po ) VG ;
        a = F/m = F/V Po
-       V^2 = U^2 + 2.a.S
+  V^2 = U^2 + 2.a.S
+
+
+***  What should be the resistance of the 8 ohm resistor so that the thermal power of that resistor is
+maximum?
+ I = V/ R total
+p = I ^ R
+​P1=I1 ^2 ⋅ R1
+​
+
+***  There are 2022 point charges, each with charge q, located at a vertex of a regular polygon of
+2023 sides. Another point charge Q is located at the center of the polygon. The distance from the
+center of the regular polygon to its vertices is a. Find the force experienced by Q.
+
+ F = K (qQ)/r^2
+The force experienced by the central charge 
+𝑄
+Q will be zero because the contributions from all the individual point charges at the vertices cancel out due to the symmetry of the system
+
+***  
+ 
 
 
 
