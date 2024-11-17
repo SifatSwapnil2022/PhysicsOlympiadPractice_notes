@@ -23,7 +23,7 @@ The force experienced by the central charge
 𝑄
 Q will be zero because the contributions from all the individual point charges at the vertices cancel out due to the symmetry of the system
 
-***  
+*****
  
 
 
